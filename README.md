@@ -1,2 +1,2 @@
-echo "# recipe site" > README.md
-echo "レンジでできる料理のレシピ集です" >> README.md
+# recipe site
+レンジでできる料理のレシピ集です
